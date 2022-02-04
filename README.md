@@ -10,7 +10,7 @@
 
 ### YouTube videos and play lists:
 
-- Numpy(for vectors and matrix) for physicsists [link](https://youtube.com/hahaakaa)
+- Numpy(for vectors and matrix) for physicsists [link](https://www.youtube.com/watch?v=DcfYgePyedM)
 
 
 
