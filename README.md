@@ -7,7 +7,6 @@
 
 
 ## Resources for learning python for engineering purpose
----
 
 ### YouTube videos and play lists:
 
@@ -16,6 +15,5 @@
 
 
 ## Python libraries for Engineering research and practices
----
 
 - **Scikit-fem** for Finite Element Analysis [github repo](https://github.com/kinnala/scikit-fem)
